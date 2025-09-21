@@ -1,0 +1,24 @@
+{
+  "name": "omniparser-autonomous-app",
+  "version": "1.0.0",
+  "description": "Autonomous app using OmniParser for icon detection and UI automation",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node src/test.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "sharp": "^0.33.5",
+    "puppeteer": "^23.11.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "form-data": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5"
+  }
+}

@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+venv/
+*.pyc
+__pycache__/
+.Python
+
+# Models (large files)
+models/
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# Outputs
+screenshots/
+outputs/
+cache/
+uploads/
+*.png
+*.jpg
+*.jpeg
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test files
+test_ui.png
+test-image.png
+demo.png
+
+# Temporary files
+temp_*
+*.tmp
+
+# Build
+dist/
+build/
