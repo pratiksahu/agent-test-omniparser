@@ -1,6 +1,11 @@
-# OmniParser Autonomous App - Fully Local
+# OmniParser Autonomous App - Enterprise-Grade Local UI Automation
 
-An intelligent UI automation application using Microsoft's OmniParser v2 for icon detection and autonomous web navigation. **Runs completely locally** without requiring any external API calls.
+> An intelligent, privacy-first UI automation solution leveraging Microsoft's OmniParser v2 for advanced icon detection and autonomous web navigation. **100% local execution** with zero external dependencies.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)](https://nodejs.org/)
+[![OmniParser](https://img.shields.io/badge/OmniParser-v2.0-purple)](https://microsoft.github.io/OmniParser/)
 
 ## 🎯 Key Features
 
@@ -358,10 +363,111 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/agent-ui/issues)
+- **Issues**: [GitHub Issues](https://github.com/pratiksahu/agent-test-omniparser/issues)
 - **Documentation**: [CLAUDE.md](CLAUDE.md) for development details
 - **Examples**: See `/src/test.js` for usage examples
 
 ---
 
-**Note**: This application runs 100% locally. No data is sent to external servers, ensuring complete privacy and control over your automation workflows.
+## 🚀 Professional AI Consulting Services
+
+<div align="center">
+  <img src="https://geekyants.com/images/geekyants-logo.png" alt="GeekyAnts" width="200"/>
+
+  ### Transform Your Business with Enterprise AI Solutions
+
+  **[GeekyAnts](https://geekyants.com)** - Your Partner in AI Innovation
+</div>
+
+### 🎯 Our AI Expertise
+
+At **GeekyAnts**, we specialize in delivering cutting-edge AI solutions that drive real business value:
+
+#### 🤖 **Autonomous AI Agents**
+- Custom AI agents tailored to your business processes
+- Intelligent automation for complex workflows
+- Integration with existing enterprise systems
+- Scalable, production-ready deployments
+
+#### 🧠 **Computer Vision & ML Solutions**
+- Advanced image and video processing systems
+- Custom model training and optimization
+- Real-time inference pipelines
+- Edge deployment strategies
+
+#### 💼 **Enterprise AI Integration**
+- LLM integration and fine-tuning
+- RAG (Retrieval-Augmented Generation) systems
+- Knowledge base development
+- AI-powered analytics dashboards
+
+### 🏆 Why Choose GeekyAnts?
+
+- **✅ 500+ Engineers** - Large team of AI/ML specialists and full-stack developers
+- **✅ 15+ Years** - Proven track record in enterprise software development
+- **✅ Global Presence** - Offices in India, USA, and UK
+- **✅ Fortune 500 Clients** - Trusted by leading global brands
+- **✅ End-to-End Solutions** - From POC to production deployment
+
+### 💡 Our Process
+
+1. **Discovery & Consultation** - Understanding your unique challenges
+2. **Solution Architecture** - Designing scalable, efficient AI systems
+3. **Rapid Prototyping** - Quick POCs to validate approach
+4. **Production Development** - Enterprise-grade implementation
+5. **Deployment & Support** - Seamless integration and ongoing optimization
+
+### 📋 Services We Offer
+
+| Service | Description |
+|---------|-------------|
+| **AI Strategy Consulting** | Roadmap development for AI adoption |
+| **Custom Model Development** | Training models specific to your domain |
+| **System Integration** | Seamless AI integration with existing infrastructure |
+| **Performance Optimization** | Improving inference speed and accuracy |
+| **MLOps Implementation** | CI/CD pipelines for ML models |
+| **24/7 Support** | Continuous monitoring and maintenance |
+
+### 🌟 Success Stories
+
+- **Automated Document Processing** - 90% reduction in manual processing time
+- **Intelligent Customer Support** - 60% decrease in response time
+- **Predictive Maintenance** - 40% reduction in equipment downtime
+- **Vision-Based Quality Control** - 99.9% defect detection accuracy
+
+### 📬 Get in Touch
+
+Ready to revolutionize your business with AI? Let's discuss how we can help.
+
+<div align="center">
+
+**🌐 Website**: [https://geekyants.com](https://geekyants.com)
+**📧 Email**: [ai-consulting@geekyants.com](mailto:ai-consulting@geekyants.com)
+**📱 Phone**: +1 (415) 890-5433 | +91 (804) 785-5522
+**💼 LinkedIn**: [GeekyAnts](https://www.linkedin.com/company/geekyants/)
+
+<a href="https://geekyants.com/contact" style="display: inline-block; padding: 12px 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  Schedule a Free Consultation
+</a>
+
+</div>
+
+### 🏢 Our Offices
+
+**USA** - San Francisco, CA
+**India** - Bangalore, Karnataka
+**UK** - London
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by GeekyAnts Engineering Team</sub>
+
+  <br/>
+
+  <sub>This open-source project demonstrates our commitment to advancing AI technology and sharing knowledge with the developer community.</sub>
+</div>
+
+---
+
+**Privacy Notice**: This application runs 100% locally. No data is sent to external servers, ensuring complete privacy and control over your automation workflows. This aligns with our commitment to data security and privacy-first solutions at GeekyAnts.
